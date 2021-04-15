@@ -31,7 +31,7 @@ def player2():
 def check():
     n=0
     for i in range(0,9):
-        if i+1==1 or i+1==4 or i+1==6:
+        if i+1==1 or i+1==4 or i+1==7:
             j=i+1
             k=i+2
             if (square1[i]==square1[k]) and (square1[i]==square1[j]):
