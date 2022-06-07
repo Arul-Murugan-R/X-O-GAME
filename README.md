@@ -14,4 +14,4 @@ apt install python
 apt-get update
 ```
 
-* In Windows Download `python`
+* In Windows Download `python3`
